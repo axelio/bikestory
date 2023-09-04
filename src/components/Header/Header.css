@@ -1,0 +1,50 @@
+.header {
+    height: 250px;
+    background-size: cover !important;
+    background-attachment: scroll;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.header .title {
+    width: 100%;
+    text-transform: uppercase;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    font-size: 60px;
+    letter-spacing: 4px;
+    text-align: center;
+    color: #fff;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-weight: 700;
+}
+
+.header .homelink {
+    color: #fff;
+    position: absolute;
+    left: 40px;
+    top: 20px;
+    font-size: 25px;
+    cursor: pointer;
+    font-weight: 500;
+}
+
+@media (max-width: 425px) {
+    .header {
+        height: 200px;
+    }
+
+    .header .title {
+        font-size: 28px;
+    }
+
+    .header .homelink {
+        left: 10px;
+        top: 15px;
+        font-size: 15px;
+    }
+}

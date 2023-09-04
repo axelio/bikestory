@@ -1,0 +1,16 @@
+.error-wrapper {
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 1.2rem;
+    color: #094971;
+}
+
+.refresh-page {
+    text-decoration: underline;
+    text-underline-position: under;
+    cursor: pointer;
+    color: #094971;
+}

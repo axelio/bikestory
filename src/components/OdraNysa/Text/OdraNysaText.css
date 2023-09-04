@@ -1,0 +1,24 @@
+.blog-post {
+    max-width: 630px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.blog-post p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    text-align: justify;
+}
+
+.blog-post h3 {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 1.6rem;
+    text-align: center;
+    color: #094971;
+}
+
+.blog-post h4 {
+    font-size: 1.2rem;
+    font-weight: 700;
+}
