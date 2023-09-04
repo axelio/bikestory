@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/bikestory/static/css/main.d6e819cc.css",
+    "main.js": "/bikestory/static/js/main.957883ff.js",
+    "static/js/787.14ac7fdf.chunk.js": "/bikestory/static/js/787.14ac7fdf.chunk.js",
+    "static/media/13.jpg": "/bikestory/static/media/13.07da206975c74c958ff4.jpg",
+    "static/media/3.jpg": "/bikestory/static/media/3.73131796c0e4879d0092.jpg",
+    "static/media/2.jpg": "/bikestory/static/media/2.7afd34eed0a3ecb02c30.jpg",
+    "static/media/7.jpg": "/bikestory/static/media/7.d21ec0b78cf85061f285.jpg",
+    "static/media/11.jpg": "/bikestory/static/media/11.e9f44b8fd509533484d7.jpg",
+    "static/media/6.jpg": "/bikestory/static/media/6.9455bc55b60bf1834c48.jpg",
+    "static/media/8.jpg": "/bikestory/static/media/8.da19ca3ba204798939b6.jpg",
+    "static/media/12.jpg": "/bikestory/static/media/12.530f43504259d4245e35.jpg",
+    "static/media/9.jpg": "/bikestory/static/media/9.f1aea08e9d7d9df30697.jpg",
+    "static/media/5.jpg": "/bikestory/static/media/5.a7e2ec3bb0b59e5f9e75.jpg",
+    "static/media/4.jpg": "/bikestory/static/media/4.0e7f3039cbb07fa41c0d.jpg",
+    "static/media/sloneczniki-desktop.jpg": "/bikestory/static/media/sloneczniki-desktop.93a553946c6f31de8279.jpg",
+    "static/media/sloneczniki-phone.jpg": "/bikestory/static/media/sloneczniki-phone.22145e3d0a1b096f46a5.jpg",
+    "index.html": "/bikestory/index.html",
+    "main.d6e819cc.css.map": "/bikestory/static/css/main.d6e819cc.css.map",
+    "main.957883ff.js.map": "/bikestory/static/js/main.957883ff.js.map",
+    "787.14ac7fdf.chunk.js.map": "/bikestory/static/js/787.14ac7fdf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6e819cc.css",
+    "static/js/main.957883ff.js"
+  ]
+}
