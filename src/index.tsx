@@ -1,26 +1,25 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import {
-  createBrowserRouter,
+  createHashRouter,
   RouterProvider,
 } from "react-router-dom";
 
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import Home from './components/Home';
 import ErrorPage from './components/ErrorPage';
 import OdraNysa from './components/OdraNysa';
 
-const router = createBrowserRouter([
+const router = createHashRouter([
   {
-    path: "/",
+    path: "/*",
     element: <OdraNysa />,
     errorElement: <ErrorPage />,
   },
-  {
-    path: "/odranysa",
-    element: <OdraNysa />
-  }
+  // {
+  //   path: "/odranysa",
+  //   element: <OdraNysa />
+  // }
 ]);
 
 const root = ReactDOM.createRoot(
