@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bikestory/static/css/main.5c93c944.css",
-    "main.js": "/bikestory/static/js/main.01ff1714.js",
+    "main.css": "/bikestory/static/css/main.d6e819cc.css",
+    "main.js": "/bikestory/static/js/main.edad28fd.js",
     "static/js/787.14ac7fdf.chunk.js": "/bikestory/static/js/787.14ac7fdf.chunk.js",
     "static/media/13.jpg": "/bikestory/static/media/13.07da206975c74c958ff4.jpg",
     "static/media/3.jpg": "/bikestory/static/media/3.73131796c0e4879d0092.jpg",
@@ -17,12 +17,12 @@
     "static/media/sloneczniki-desktop.jpg": "/bikestory/static/media/sloneczniki-desktop.93a553946c6f31de8279.jpg",
     "static/media/sloneczniki-phone.jpg": "/bikestory/static/media/sloneczniki-phone.22145e3d0a1b096f46a5.jpg",
     "index.html": "/bikestory/index.html",
-    "main.5c93c944.css.map": "/bikestory/static/css/main.5c93c944.css.map",
-    "main.01ff1714.js.map": "/bikestory/static/js/main.01ff1714.js.map",
+    "main.d6e819cc.css.map": "/bikestory/static/css/main.d6e819cc.css.map",
+    "main.edad28fd.js.map": "/bikestory/static/js/main.edad28fd.js.map",
     "787.14ac7fdf.chunk.js.map": "/bikestory/static/js/787.14ac7fdf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c93c944.css",
-    "static/js/main.01ff1714.js"
+    "static/css/main.d6e819cc.css",
+    "static/js/main.edad28fd.js"
   ]
 }
